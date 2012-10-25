@@ -1,0 +1,539 @@
+2012-10-25 16:40:19 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:19 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:19 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:19 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:19 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:19 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:52 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:52 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:52 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:52 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:52 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:40:52 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:09 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:09 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:09 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:09 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:09 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:09 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:15 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:15 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:15 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:15 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:15 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:41:15 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:45 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:45 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:45 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:45 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:45 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:45 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:53 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:53 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:53 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:53 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:53 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:53 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:58 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:58 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:58 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:58 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:58 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:51:58 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:23 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:23 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:23 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:23 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:23 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+Cache::write() - CORE\Cake\Cache\Cache.php, line 307
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:23 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:43 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br) [<a href='function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+CakeException::__construct() - CORE\Cake\Error\exceptions.php, line 201
+MissingControllerException::__construct() - CORE\Cake\Error\exceptions.php, line 228
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 158
+[main] - APP\webroot\index.php, line 92
+
+2012-10-25 16:52:43 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_dev_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+CakeException::__construct() - CORE\Cake\Error\exceptions.php, line 201
+MissingControllerException::__construct() - CORE\Cake\Error\exceptions.php, line 228
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 158
+[main] - APP\webroot\index.php, line 92
+
+2012-10-25 16:52:43 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_dev_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+CakeException::__construct() - CORE\Cake\Error\exceptions.php, line 201
+MissingControllerException::__construct() - CORE\Cake\Error\exceptions.php, line 228
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 158
+[main] - APP\webroot\index.php, line 92
+
+2012-10-25 16:52:43 Error: [MissingControllerException] Controller class Amigos.htmlController could not be found.
+#0 C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-10-25 16:52:43 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_pt-br) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 204
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 170
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 126
+[main] - [internal], line ??
+
+2012-10-25 16:52:43 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_cake_pt-br' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 204
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 170
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 126
+[main] - [internal], line ??
+
+2012-10-25 16:52:43 Warning: Warning (512): _cake_core_ cache was unable to write 'cake_pt-br' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+I18n::translate() - CORE\Cake\I18n\I18n.php, line 176
+__d - CORE\Cake\basics.php, line 560
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 204
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 170
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 126
+[main] - [internal], line ??
+
+2012-10-25 16:52:43 Warning: Warning (2): SplFileInfo::openFile(C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map) [<a href='http://php.net/function.SplFileInfo-openFile'>function.SplFileInfo-openFile</a>]: failed to open stream: No error in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 311]
+Trace:
+SplFileInfo::openFile() - [internal], line ??
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 311
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:43 Warning: Warning (512): Cannot open file 'C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\app\tmp\cache\persistent\myapp_cake_core_file_map' in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Engine\FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE\Cake\Cache\Engine\FileEngine.php, line 313
+FileEngine::write() - CORE\Cake\Cache\Engine\FileEngine.php, line 117
+Cache::write() - CORE\Cake\Cache\Cache.php, line 298
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 16:52:43 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [C:\Users\U031286\Documents\Felipe\xampp1.6.6\htdocs\virtual-gift\lib\Cake\Cache\Cache.php, line 309]
+Trace:
+Cache::write() - CORE\Cake\Cache\Cache.php, line 309
+App::shutdown() - CORE\Cake\Core\App.php, line 893
+[main] - [internal], line ??
+
+2012-10-25 21:46:40 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\virtual-gift\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

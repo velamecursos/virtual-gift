@@ -1,0 +1,275 @@
+/* Zerando CSS */
+
+/* HTML5 */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, blockquote,
+pre, a, abbr, address, cite, code, del,
+dfn, em, img, ins, kbd, q, samp, small,
+strong, sub, sup, var, b, i, dl, dt, dd,
+ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr,
+th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    outline-width: 0;
+}
+
+header, nav, footer, section, article, aside { display:block; }
+
+html { /*overflow-x:hidden;*/ }
+
+body, label, input, textarea { font:12px/1.2 Tahoma; }
+
+body { color:#000; background:#fff; overflow-x:hidden; }
+
+figure { display:inline-block; margin:0; padding:0; }
+
+a { color:#fff; text-decoration:none; outline:none; cursor:pointer; }
+a:hover { text-decoration:underline; -moz-transition: all 300ms ease-in-out 0s;}
+a img { border:0; }
+
+p { margin:5px 0; color:#655e5e; font-size:14px; text-align:justify; line-height:18px; }
+
+ul { list-style:none;}
+ul li { float:left; }
+
+address { font-style:normal; }
+
+/* titulo */
+h1, h2, h3, h4, h5, h6, h7 { font-weight:bold; }
+h1 { font-size:16px; color:#7c6c49; }
+h2 { font-size:16px; color:#452804; }
+
+/* clear */
+.clr { clear:both; }
+.clearfix:after { display:block; clear:both; line-height:0; height:0; content:""; }
+
+/* colunas */
+.col-esq { float:left; }
+.col-dir { float:right; }
+.col-centro { margin:0 auto; display:inline-block; }
+
+.article, .content {
+	width:975px;
+	margin:0 auto;
+	display:table;
+}
+
+/*-------------------Pop-up-------------------*/
+#popup {
+	padding:50px;
+	border-radius:10px;
+}
+
+#popup .box-rede {
+	background:url(../img/ico-redes.png) no-repeat;
+	width:150px; height:50px;
+	margin-right:15px;
+	margin-top:20px;
+	margin-bottom:0px;
+}
+
+#popup .box-rede-facebook {
+}
+
+#popup .box-rede-twitter {
+	background-position:right;
+}
+
+#popup .box-div {
+	background:url(../img/ou.png) no-repeat;
+	width:36px; height:134px;
+	margin-right:35px;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#popup .form {
+	width:260px;
+	float:left;
+	margin-top:30px;
+	margin-bottom:60px;
+}
+
+#popup .form .campo {
+	width:260px;
+	padding:5px;
+}
+
+#popup .form .campo {
+	width:260px;
+	padding:5px;
+}
+
+#popup .form .bt-enviar {
+	border-radius:5px;
+	padding:4px 15px;
+	background:#ccc;
+	color:#666;
+	text-transform:uppercase;
+	font-weight:bold;
+	cursor:pointer;
+	margin-left:-2px;
+	margin-top:10px;
+}
+
+/*-------------------Wrapper-------------------*/
+#wrapper {
+	width:100%;
+	display:block;
+	background:url(../img/bg-home.jpg) repeat top center;
+}
+
+/*-------------------Header-------------------*/
+#header {
+	width:100%;
+	display:table;
+}
+
+#header .content {
+	background:url(../img/logo-presente-virtual.png) no-repeat;
+	width:873px;
+	height:250px;
+}
+
+/*-------------------Section-Tipo-Presente-------------------*/
+.section-tipo-presente {
+	background:url(../img/caixa-tipo-presente.png) no-repeat;
+	width:238px;
+	height:137px;
+	margin-top:130px;
+}
+
+.section-tipo-presente .box {
+	margin-top:60px;
+	float:left;
+}
+
+.section-tipo-presente .box a, .section-tipo-presente .box span {
+	font-size: 16px;
+	color: white;
+	margin-bottom:4px;
+	margin-left:15px;
+	font-family: arial;
+	display:block;
+}
+
+.section-tipo-presente .box span {
+	color: #ccc;
+}
+
+/*-------------------Section-Quadro-Presente-------------------*/
+.section-quadro-presente {
+	margin-top:20px;
+}
+
+.section-quadro-presente .link-criar-presente {
+	background:url(../img/bt-criar-presente.png) no-repeat;
+	width:201px;
+	height:32px;
+	float:left;
+	margin-left:10px;
+	margin-top:12px;
+}
+
+.section-quadro-presente .bg {
+	background:url(../img/quadro-presentes.png) no-repeat;
+	width:584px;
+	height:387px;	
+}
+
+/*-------------------Section-Compartilhar-------------------*/
+.section-compartilhar {
+	margin-top:40px;
+}
+
+.section-compartilhar .bg-txt {
+	background:url(../img/txt-caixinha.png) no-repeat;
+	width:382px;
+	height:184px;
+}
+
+.section-compartilhar .box-compartilhar {
+	margin-left:60px;
+	margin-top:20px;
+}
+
+.section-compartilhar .box-compartilhar .ico {
+	width:86px;
+	height:90px;
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.section-compartilhar .box-compartilhar .ico-facebook {
+	background:url(../img/ico-facebook.png) no-repeat;
+}
+
+.section-compartilhar .box-compartilhar .ico-twitter {
+	background:url(../img/ico-twitter.png) no-repeat;
+}
+
+.section-compartilhar .box-compartilhar .ico-google {
+	background:url(../img/ico-google.png) no-repeat;
+}
+
+/*-------------------Section-Texto-------------------*/
+.section-txt {
+	margin-top:50px;
+	background:url(../img/txt-presente.png) no-repeat;
+	width:440px;
+	height:120px;
+}
+
+/*-------------------Section-Usuários-------------------*/
+.section-usuarios {
+	margin-top:-62px;
+	background:url(../img/bg-usuarios.png) no-repeat;
+	width:517px;
+	height:292px;
+}
+
+.box-usuarios {
+	margin-top:100px;
+	margin-left:106px;
+	float:left;
+	width:320px;
+}
+
+.box-usuarios .box-usuario {
+	margin-right:3px;
+	margin-left:3px;
+	margin-bottom:5px;
+	padding-bottom:9px;
+	background:url(../img/bg-usuario.png) no-repeat;
+}
+
+.box-usuarios .box-usuario .figure {
+	width:98px;
+	height:69px;
+	overflow:hidden;
+}
+
+.box-usuarios .box-usuario .figure img {
+	width:82px;
+	padding:2px;
+}
+
+/*-------------------Footer-------------------*/
+#footer {
+	background:url(../img/bg-rodape.png) repeat;
+	width:100%;
+	height:54px;	
+	margin:0 auto;
+	display:table;
+}
+
+#footer .content {
+	margin:0 auto;
+	display:block;
+	text-align:center;
+	margin-top:35px;
+	font-size:14px;
+}

@@ -1,0 +1,81 @@
+/*
+    ColorBox Core Style
+    The following rules are the styles that are consistant between themes.
+    Avoid changing this area to maintain compatability with future versions of ColorBox.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; /*overflow:hidden;*/}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:hidden;}
+#cboxLoadedContent iframe{display:block; width:100%; height:100%; border:0;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+
+/* 
+    ColorBox example user style
+    The following rules are ordered and tabbed in a way that represents the
+    order/nesting of the generated HTML, so that the structure easier to understand.
+*/
+#cboxOverlay{background:#000;}
+
+#colorbox{}
+    #cboxContent{margin-top:20px; -webkit-box-shadow: #000 0 0 20px; -moz-box-shadow: #000 0 0 20px;}
+        #cboxLoadedContent{background:#000; padding:5px;}
+        #cboxTitle{position:absolute; top:-20px; left:0; color:#ccc;}
+        #cboxCurrent{position:absolute; top:-20px; right:5px; color:#ccc;}
+        #cboxSlideshow{position:absolute; top:-20px; right:105px; color:#fff;}
+        #cboxPrevious{
+			position: absolute;
+			top: 50%;
+			left: -33px;
+			margin-top: -37px;
+			width: 28px;
+			height: 65px;
+			line-height: 65px;
+			text-align: center;
+			background: #900;
+			border: 5px solid black;
+			color: white;
+			font-size: 30px;
+			z-index:-1;
+			-webkit-border-radius: 9px 0 0 9px; -moz-border-radius: 9px 0 0 9px;
+		}
+        #cboxPrevious.hover{background: #f30;}
+        #cboxNext{
+			position: absolute;
+			top: 50%;
+			right: -33px;
+			margin-top: -37px;
+			width: 28px;
+			height: 65px;
+			line-height: 65px;
+			text-align: center;
+			background: #900;
+			border: 5px solid black;
+			color: white;
+			font-size: 30px;
+			z-index:-1;
+			-webkit-border-radius: 0 9px 9px 0; -moz-border-radius: 0 9px 9px 0;
+		}
+        #cboxNext.hover{background: #f30;}
+        #cboxLoadingOverlay{background:#000;}
+        #cboxLoadingGraphic{background:url(images/loading.gif) center center no-repeat;}
+        #cboxClose{
+			position: absolute;
+			top: 0px;
+			right: -25px;
+			display: block;
+			width: 25px;
+			height: 20px;
+			/*background: #900;
+			border: 5px solid black;*/
+			color: white;
+			text-align: center;
+			font-weight: bold;
+			font-size: 18px;
+			line-height: 16px;
+			/*-webkit-border-radius: 0 9px 9px 0;*/
+		}
+        #cboxClose.hover{background-position:bottom center;}

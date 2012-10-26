@@ -1,12 +1,23 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
 <!DOCTYPE HTML>
 
 <html class="no-js" lang="pt-br">
 
 <!--Head-->
 <head>	
-	<title>Caixa de Presente</title>  
-    <link rel="stylesheet" href="css/presente.css">
-<meta charset="utf-8">
+	<title>Caixa de Presente</title> 
+        <?php
+            
+            echo $this->Html->charset();
+            echo $this->Html->css('cake.generic');
+            echo $this->Html->css('presente');
+     
+        ?>
+
 </head>
 <!--Fim-Head-->
 
@@ -51,22 +62,30 @@
                     <div class="bg">
                         <div class="box-presentes">
                             
-                            //
+                                    <?php 
+         
+            if(!empty($allGifts)){
+                $html = '<table>';
+           //     $html .= '<th>Titulo</th>';
+           //     $html .= '<th>Edição</th>';
+           //     $html .= '<th>Ano</th>';
+                
+                foreach($allGifts as $gift){
+                    $html.= '<tr>
+                                <td>'.$gift['Gift']['id'].'</td>
+                                <td>'.$gift['Gift']['description'].'</td>
+                               
+                             </tr>';
+                      //echo $this->Html->link('Edit', array('action' => 'edit', $book['Book']['id'])); 
+                }
+                $html.='</table>';
+                
+
+                echo $html;
+            }  
+        ?>
                             <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
-                            <img src="img/presente01.jpg" alt=""/>
+             
                         </div>
                     </div>             
                 </section>

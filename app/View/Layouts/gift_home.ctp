@@ -61,5 +61,12 @@
         </div>
         
 	<?php echo $this->element('sql_dump'); ?>
+                
+        <footer id="footer">
+
+        </footer>
+     </div>
+    
+   
 </body>
 </html>

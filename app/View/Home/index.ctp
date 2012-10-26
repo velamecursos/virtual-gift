@@ -78,7 +78,3 @@
         </section>
     </div>
         <!--Fim-Col-Dir-->
-
-<footer id="footer">
-
-</footer>

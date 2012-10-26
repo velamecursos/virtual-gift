@@ -18,7 +18,7 @@
     Change the following styles to modify the appearance of ColorBox.  They are
     ordered & tabbed in a way that represents the nesting of the generated HTML.
 */
-#cboxOverlay{bbackground:#000;}
+#cboxOverlay{background:#000;}
 #colorbox{}
     #cboxContent{margin-top:20px;}
         #cboxError{padding:50px; border:1px solid #ccc;}
